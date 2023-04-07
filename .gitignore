@@ -6,6 +6,5 @@ vendor
 openai.py
 Gemfile.lock
 openai_config.py
-__pycache__/openai_config.cpython-38.pyc
-__pycache__/openai.cpython-38.pyc
+__pycache__/*
 openai_output.txt
