@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+openai.py
+Gemfile.lock
+openai_config.py
+__pycache__/openai_config.cpython-38.pyc
+__pycache__/openai.cpython-38.pyc
+openai_output.txt
