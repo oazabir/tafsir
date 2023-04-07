@@ -1,0 +1,62 @@
+Surah Al-Fajr:
+  number: 89
+  summary: Surah Al-Fajr is the 89th chapter of the Quran, consisting of 30 verses. The core themes of this Surah revolve around the signs of Allah\u0027s existence, consequences for both the righteous and the disbelievers, and the resurrection.
+  themes:
+    Theme 1:
+      name: The Oaths and The Day of Judgement
+      summary: Allah swears by the dawn, the ten nights, the even and the odd, and the departing night, emphasizing the importance of the Day of Judgement.
+      verse_range: 1-5
+      tags:
+        - oaths
+        - dawn
+        - Day of Judgment
+    Theme 2:
+      name: The Fate of Previous Nations
+      summary: A reminder of the punishment on the disobedient previous nations, such as the people of \u0027Aad, Thamud, and the people of the Pharaoh.
+      verse_range: 6-14
+      tags:
+        - punishment
+        - \u0027Aad
+        - Thamud
+        - Pharaoh
+    Theme 3:
+      name: Human Behavior and Accountability
+      summary: This theme explains the nature of humans, both ungrateful in times of prosperity and impatient in times of hardship. It highlights that humans will be held accountable for their actions on the Day of Judgement.
+      verse_range: 15-20
+      tags:
+        - human behavior
+        - accountability
+        - prosperity
+        - hardship
+    Theme 4:
+      name: The Righteous and the Disbelievers
+      summary: On the Day of Judgement, the righteous will receive rewards, while disbelievers will face a severe punishment.
+      verse_range: 21-30
+      tags:
+        - righteousness
+        - disbelievers
+        - reward
+        - punishment
+
+Surah Ad-Dhuha:
+  number: 93
+  summary: Surah Ad-Dhuha is the 93rd chapter of the Quran with 11 verses. The themes of this Surah include reassurance to Prophet Muhammad (PBUH), the importance of helping the needy, and Allah\u0027s unfailing support.
+  themes:
+    Theme 1:
+      name: Reassurance to the Prophet
+      summary: Allah swears by the morning light and the night to remind the Prophet Muhammad (PBUH) that he has not forsaken him and He will provide guidance and support.
+      verse_range: 1-5
+      tags:
+        - reassurance
+        - Prophet Muhammad
+        - guidance
+        - support
+    Theme 2:
+      name: Gratitude and Helping the Needy
+      summary: Allah reminds the Prophet (PBUH) of the blessings in his life and instructs him to be compassionate, aid the needy, and acknowledge the blessings of Allah.
+      verse_range: 6-11
+      tags:
+        - gratitude
+        - needy
+        - blessings
+        - compassion

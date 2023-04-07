@@ -1,0 +1,188 @@
+Surah An-Naba:
+  number: 78
+  summary: Surah An-Naba discusses the Day of Judgment, the creation of mankind, and the blessings of Allah, in order to remind people of their ultimate purpose and the importance of living a pious life.
+  themes:
+    Theme 1:
+      name: The Day of Judgment
+      summary: The surah begins with a description of the Day of Judgment, emphasizing its inevitability and the terrible events that will unfold on that day.
+      verse_range: 1-16
+      tags: [day_of_judgment, warnings, punishment]
+    Theme 2:
+      name: The Creation of Mankind
+      summary: Allah recounts the various stages of the creation of human beings and the earth, as a testament to His power and wisdom.
+      verse_range: 17-26
+      tags: [creation, mankind, God's_power]
+    Theme 3:
+      name: The Blessings of Allah
+      summary: The surah enumerates various blessings, natural phenomena, and provisions that Allah has bestowed upon the earth and all its dwellers.
+      verse_range: 27-33
+      tags: [blessings, gratitude, nature]
+
+Surah An-Nazi'at:
+  number: 79
+  summary: Surah An-Nazi'at describes the events of the Day of Judgment, the story of Moses and Pharaoh, and a call to reflect upon the signs of Allah.
+  themes:
+    Theme 1:
+      name: The Day of Judgment
+      summary: The events of the Day of Judgment are described with vivid and terrifying imagery, reminding all of the inevitable accountability and the fates of the righteous and the disbelievers.
+      verse_range: 1-14
+      tags: [day_of_judgment, heaven, hell]
+    Theme 2:
+      name: The Story of Moses and Pharaoh
+      summary: The surah recounts the story of Moses and Pharaoh as a lesson for mankind, emphasizing the arrogance of Pharaoh and the ultimate victory of the truth.
+      verse_range: 15-26
+      tags: [Moses, Pharaoh, story]
+    Theme 3:
+      name: Reflecting on Allah's Signs
+      summary: The surah calls on mankind to consider the wonders of the natural world and the creation, as proof of the existence and power of Allah.
+      verse_range: 27-46
+      tags: [reflection, signs, nature]
+
+Surah Abasa:
+  number: 80
+  summary: Surah Abasa focuses on the importance of every individual regardless of status, the impermanence of this life, and the inevitability of death and the Day of Judgment.
+  themes:
+    Theme 1:
+      name: Importance of All Individuals
+      summary: The Prophet is gently rebuked for ignoring a blind man in favor of more elite members of society, emphasizing the spiritual importance of all individuals, regardless of status.
+      verse_range: 1-10
+      tags: [equality, compassion, social_status]
+    Theme 2:
+      name: The Impermanence of Life
+      summary: The short and fleeting nature of this life is described, as well as the process of human creation, growth, and eventual death.
+      verse_range: 11-22
+      tags: [life, death, impermanence]
+    Theme 3:
+      name: The Day of Judgment
+      summary: The surah ends with a description of the Day of Judgment, its terrible events, and the consequences of both belief and disbelief.
+      verse_range: 23-42
+      tags: [judgment, belief, actions]
+
+Surah At-Takwir:
+  number: 81
+  summary: Surah At-Takwir speaks of the drastic events that will occur at the end of the world and the Day of Judgment, followed by a call to reflect on the Quran and the truth.
+  themes:
+    Theme 1:
+      name: The End of The World and The Day of Judgment
+      summary: The surah begins with vivid imagery of the end of the world and the events that will unfold on the Day of Judgment.
+      verse_range: 1-14
+      tags: [world_end, day_of_judgment, warnings]
+    Theme 2:
+      name: Reflecting on the Quran and the Truth
+      summary: The surah calls on people to recognize the truth in the Quran and its divine origins, while refuting claims that Prophet Muhammad is a madman or deceived by evil.
+      verse_range: 15-29
+      tags: [Quran, truth, reflection]
+
+Surah Al-Infitar:
+  number: 82
+  summary: Surah Al-Infitar discusses the Day of Judgment, the impermanence of this world, and the ultimate consequences of human actions.
+  themes:
+    Theme 1:
+      name: The Day of Judgment and Impermanence
+      summary: The surah begins with a description of the end of the world and the Day of Judgment, emphasizing the impermanence of this life.
+      verse_range: 1-9
+      tags: [day_of_judgment, impermanence, world_end]
+    Theme 2:
+      name: Consequences of Actions
+      summary: The surah concludes with a description of the fates of the righteous and the wicked, based on their actions in this life.
+      verse_range: 10-19
+      tags: [actions, consequences, accountability]
+
+Surah Al-Mutaffifin:
+  number: 83
+  summary: Surah Al-Mutaffifin speaks about the fraudulent practices of deceitful traders, the ultimate justice of the Day of Judgment, and the respective fates of the disbelievers and the believers.
+  themes:
+    Theme 1:
+      name: The Fraudulent Traders
+      summary: The surah condemns the dishonest practices of traders who defraud their customers in order to increase their profits.
+      verse_range: 1-6
+      tags: [dishonesty, fraud, traders]
+    Theme 2:
+      name: The Day of Judgment
+      summary: The surah describes the Day of Judgment, emphasizing the ultimate justice that will be served on that day.
+      verse_range: 7-17
+      tags: [day_of_judgment, justice, consequences]
+    Theme 3:
+      name: The Fates of Disbelievers and Believers
+      summary: The contrasting fates of the disbelievers and the believers are depicted, in order to encourage a morally upright life.
+      verse_range: 18-36
+      tags: [disbelievers, believers, fate]
+
+Surah Al-Inshiqaq:
+  number: 84
+  summary: Surah Al-Inshiqaq emphasizes the Day of Judgment, the certainty of divine justice, and the different fates of the righteous and the wicked.
+  themes:
+    Theme 1:
+      name: The Day of Judgment and Divine Justice
+      summary: The surah begins with vivid descriptions of the events of the Day of Judgment, emphasizing the certainty of divine justice and the inevitable reckoning.
+      verse_range: 1-12
+      tags: [judgment, justice, warnings]
+    Theme 2:
+      name: The Fates of the Righteous and the Wicked
+      summary: The contrasting fates of the righteous and the wicked are described, based on their beliefs and actions during their lifetime.
+      verse_range: 13-25
+      tags: [righteous, wicked, consequences]
+
+Surah Al-Buruj:
+  number: 85
+  summary: Surah Al-Buruj emphasizes the divine punishment of those who persecute believers, the rewards for the righteous, and the certainty of the Day of Judgment.
+  themes:
+    Theme 1:
+      name: Persecution of the Believers and Divine Punishment
+      summary: The surah recounts the story of the believers who were burned alive for their faith, emphasizing the ultimate divine punishment for those who wrongfully persecute others.
+      verse_range: 1-10
+      tags: [persecution, believers, punishment]
+    Theme 2:
+      name: Rewards and The Day of Judgment
+      summary: The surah emphasizes the rewards for the righteous and the certainty of the Day of Judgment, urging mankind to reflect on the consequences of their actions.
+      verse_range: 11-22
+      tags: [rewards, judgment, reflection]
+
+Surah At-Tariq:
+  number: 86
+  summary: Surah At-Tariq reflects on the wonders of creation and the inevitability of the Day of Judgment, with an emphasis on the certainty of divine justice and the consequences of human actions.
+  themes:
+    Theme 1:
+      name: Wonders of Creation
+      summary: The surah highlights the wonders of creation, such as the star that pierces through darkness, as evidence of the power and wisdom of Allah.
+      verse_range: 1-4
+      tags: [wonders, creation, signs]
+    Theme 2:
+      name: The Day of Judgment and Consequences of Human Actions
+      summary: The surah emphasizes the inevitability of the Day of Judgment and the ultimate consequences of human actions, whether good or evil.
+      verse_range: 5-17
+      tags: [day_of_judgment, consequences, actions]
+
+Surah Al-A'la:
+  number: 87
+  summary: Surah Al-A'la speaks about the greatness and majesty of Allah, and exhorts believers to remember Him, pray, and purify themselves in preparation for the Hereafter.
+  themes:
+    Theme 1:
+      name: The Greatness of Allah
+      summary: The surah emphasizes the greatness and majesty of Allah, and the wonders of His creation.
+      verse_range: 1-9
+      tags: [greatness, majesty, creator]
+    Theme 2:
+      name: Remembering Allah and Preparing for the Hereafter
+      summary: Believers are enjoined to remember Allah, pray, and purify themselves, as they strive to succeed in this life and the Hereafter.
+      verse_range: 10-19
+      tags: [remembrance, prayer, purification]
+
+Surah Al-Ghashiya:
+  number: 88
+  summary: Surah Al-Ghashiya describes the events of the Day of Judgment, and the contrasting fates of the righteous and the wicked, followed by a call to reflect on the wonders of nature as signs of Allah's existence and power.
+  themes:
+    Theme 1:
+      name: The Day of Judgment and Contrasting Fates
+      summary: The surah begins with a description of the Day of Judgment, emphasizing the different fates of the righteous and the wicked based on their beliefs and actions.
+      verse_range: 1-16
+      tags: [day_of_judgment, contrasting_fates, consequences]
+    Theme 2:
+      name: Reflection on the Wonders of Nature
+      summary: The surah calls on mankind to reflect on the wonders of nature as signs of the existence and power of Allah.
+      verse_range: 17-26
+      tags: [reflection, wonders, nature]
+
+Surah Al-Fajr:
+  number: 89
+  summary: Surah Al-Fajr discusses the events of the Day of Judgment, the destruction of past nations as a warning to the disbelievers, and the contrast between the fates of
