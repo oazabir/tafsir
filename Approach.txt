@@ -1,0 +1,41 @@
+Site layout
+===========
+
+/                               Home page listing all surah, surah summary & major themes. Search bar on top to search any verse or topic.
+|--- /surah_name                surah specific page with surah summary and major themes links
+    |--- /theme_verse_range     theme and verse range detail tafsir
+|--- /feedback                  feedback form
+|--- /surah_number/verse_number Redirects to page that explains that theme and verse
+
+Features
+=========
+ - Homepage showing a list of surah and major themes.
+ - Search feature to find any ayah using surah & ayah number
+ - Search feature to find any verse or topic  https://github.com/christian-fei/Simple-Jekyll-Search
+ - Quran verse search and going to the article
+ - Recitation player
+
+Content generation
+==================
+ - Generation process
+    - For each .yml file in quran_yamls folder
+        - generate /surah_name file.
+            - Write surah name, summary,
+            - Write theme names, theme summary with verse range as links
+        - for each theme
+            - generate /surah_name/theme_verse_range file
+                - Write theme name, verse range
+                - Generate tags using surah:verse numbers, tags, important arabic words
+                - include content from /surah_number/verse_number page
+            - generate /surah_number/verse_number using the verse numbers in the range
+                - include content from /content/surah_no/verse_no
+
+
+Open API generation algorithm
+
+- For each surah
+    - For each theme
+        - For each verse in the verse range
+            - call OpenAI to generate the content
+            - if throws error retry once more
+            - write the content in content folder using /content/surah_name/verse_number/
